@@ -1,0 +1,169 @@
+{
+  "meta": {
+    "page": 1,
+    "row": 6,
+    "total": 1
+  },
+  "data": [
+    {
+      "id": "6794f8e99199ca8c0455d214",
+      "name": "商品管理员",
+      "introduce": "商品管理员主要负责商品部分",
+      "subMenus": [
+        {
+          "buffer": {}
+        },
+        {
+          "buffer": {}
+        },
+        {
+          "buffer": {}
+        },
+        {
+          "buffer": {}
+        }
+      ],
+      "createdAt": "2025-01-25 22:44:57",
+      "updatedAt": "2025-01-25 22:44:57",
+      "subMenusDetails": {
+        "id": "6793962d464392d6995f874f",
+        "name": "技术总览",
+        "path": "/main/overview/systemOverview",
+        "introduce": "",
+        "menuId": {
+          "buffer": {}
+        },
+        "createdAt": "2025-01-24 21:31:25",
+        "updatedAt": "2025-01-24 22:02:13",
+        "menu": {
+          "id": "6792394e7b4f596903e9aedb",
+          "name": "系统总览",
+          "icon": "LineChartOutlined",
+          "introduce": "",
+          "createdAt": "2025-01-23 20:42:54",
+          "updatedAt": "2025-01-24 18:15:23"
+        }
+      }
+    },
+    {
+      "id": "6794f8e99199ca8c0455d214",
+      "name": "商品管理员",
+      "introduce": "商品管理员主要负责商品部分",
+      "subMenus": [
+        {
+          "buffer": {}
+        },
+        {
+          "buffer": {}
+        },
+        {
+          "buffer": {}
+        },
+        {
+          "buffer": {}
+        }
+      ],
+      "createdAt": "2025-01-25 22:44:57",
+      "updatedAt": "2025-01-25 22:44:57",
+      "subMenusDetails": {
+        "id": "67939656464392d6995f8755",
+        "name": "商品统计",
+        "path": "/main/overview/productOverview",
+        "introduce": "",
+        "menuId": {
+          "buffer": {}
+        },
+        "createdAt": "2025-01-24 21:32:06",
+        "updatedAt": "2025-01-24 21:34:33",
+        "menu": {
+          "id": "6792394e7b4f596903e9aedb",
+          "name": "系统总览",
+          "icon": "LineChartOutlined",
+          "introduce": "",
+          "createdAt": "2025-01-23 20:42:54",
+          "updatedAt": "2025-01-24 18:15:23"
+        }
+      }
+    },
+    {
+      "id": "6794f8e99199ca8c0455d214",
+      "name": "商品管理员",
+      "introduce": "商品管理员主要负责商品部分",
+      "subMenus": [
+        {
+          "buffer": {}
+        },
+        {
+          "buffer": {}
+        },
+        {
+          "buffer": {}
+        },
+        {
+          "buffer": {}
+        }
+      ],
+      "createdAt": "2025-01-25 22:44:57",
+      "updatedAt": "2025-01-25 22:44:57",
+      "subMenusDetails": {
+        "id": "6793a0b6305495b02b5d128b",
+        "name": "商品类别",
+        "path": "/main/product/category",
+        "introduce": "",
+        "menuId": {
+          "buffer": {}
+        },
+        "createdAt": "2025-01-24 22:16:22",
+        "updatedAt": "2025-01-24 22:16:22",
+        "menu": {
+          "id": "679239b57b4f596903e9aef2",
+          "name": "商品中心",
+          "icon": "ShoppingOutlined",
+          "introduce": "",
+          "createdAt": "2025-01-23 20:44:37",
+          "updatedAt": "2025-01-24 18:17:10"
+        }
+      }
+    },
+    {
+      "id": "6794f8e99199ca8c0455d214",
+      "name": "商品管理员",
+      "introduce": "商品管理员主要负责商品部分",
+      "subMenus": [
+        {
+          "buffer": {}
+        },
+        {
+          "buffer": {}
+        },
+        {
+          "buffer": {}
+        },
+        {
+          "buffer": {}
+        }
+      ],
+      "createdAt": "2025-01-25 22:44:57",
+      "updatedAt": "2025-01-25 22:44:57",
+      "subMenusDetails": {
+        "id": "6793a0c6305495b02b5d1291",
+        "name": "商品信息",
+        "path": "/main/product/information",
+        "introduce": "",
+        "menuId": {
+          "buffer": {}
+        },
+        "createdAt": "2025-01-24 22:16:38",
+        "updatedAt": "2025-01-24 22:16:38",
+        "menu": {
+          "id": "679239b57b4f596903e9aef2",
+          "name": "商品中心",
+          "icon": "ShoppingOutlined",
+          "introduce": "",
+          "createdAt": "2025-01-23 20:44:37",
+          "updatedAt": "2025-01-24 18:17:10"
+        }
+      }
+    }
+  ]
+}
