@@ -1,0 +1,267 @@
+[{
+  "_id": {
+    "$oid": "67a2fa9d1f67da9c2b666bcf"
+  },
+  "type": "product",
+  "userId": {
+    "$oid": "6785196308826251abbfe2c6"
+  },
+  "itemId": {
+    "$oid": "67a2fa981f67da9c2b666bc8"
+  },
+  "fieldname": "file",
+  "originalname": "ccf974e589074b05.png.avif",
+  "mimetype": "image/avif",
+  "filename": "1738734237559-249992981.avif",
+  "path": "/uploads/2025/02/image/1738734237559-249992981.avif",
+  "size": "149578",
+  "createdAt": {
+    "$date": "2025-02-05T05:43:57.578Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T05:43:57.578Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a2fa9d1f67da9c2b666bd2"
+  },
+  "type": "product",
+  "userId": {
+    "$oid": "6785196308826251abbfe2c6"
+  },
+  "itemId": {
+    "$oid": "67a2fa981f67da9c2b666bc8"
+  },
+  "fieldname": "file",
+  "originalname": "cf8f2220fb6594a9.jpg.avif",
+  "mimetype": "image/avif",
+  "filename": "1738734237590-2454207157.avif",
+  "path": "/uploads/2025/02/image/1738734237590-2454207157.avif",
+  "size": "84351",
+  "createdAt": {
+    "$date": "2025-02-05T05:43:57.598Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T05:43:57.598Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a30b1a1f67da9c2b666c11"
+  },
+  "type": "product",
+  "userId": {
+    "$oid": "6785196308826251abbfe2c6"
+  },
+  "itemId": {
+    "$oid": "67a30b0a1f67da9c2b666c09"
+  },
+  "fieldname": "file",
+  "originalname": "2ea2bfe9b6680d86.jpg.avif",
+  "mimetype": "image/avif",
+  "filename": "1738738458463-8678934456.avif",
+  "path": "/uploads/2025/02/image/1738738458463-8678934456.avif",
+  "size": "70106",
+  "createdAt": {
+    "$date": "2025-02-05T06:54:18.472Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T06:54:18.472Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a30b1a1f67da9c2b666c13"
+  },
+  "type": "product",
+  "userId": {
+    "$oid": "6785196308826251abbfe2c6"
+  },
+  "itemId": {
+    "$oid": "67a30b0a1f67da9c2b666c09"
+  },
+  "fieldname": "file",
+  "originalname": "f37c68eee2a99106.jpg.avif",
+  "mimetype": "image/avif",
+  "filename": "1738738458466-8304126507.avif",
+  "path": "/uploads/2025/02/image/1738738458466-8304126507.avif",
+  "size": "91019",
+  "createdAt": {
+    "$date": "2025-02-05T06:54:18.481Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T06:54:18.481Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a345c8b6f23560f693f34b"
+  },
+  "type": "product",
+  "userId": {
+    "$oid": "6785196308826251abbfe2c6"
+  },
+  "itemId": {
+    "$oid": "67a345bab6f23560f693f345"
+  },
+  "fieldname": "file",
+  "originalname": "f37c68eee2a99106.jpg.avif",
+  "mimetype": "image/avif",
+  "filename": "1738753480845-345959967.avif",
+  "path": "/uploads/2025/02/image/1738753480845-345959967.avif",
+  "size": "91019",
+  "createdAt": {
+    "$date": "2025-02-05T11:04:40.858Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T11:04:40.858Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a46b0bff3eb02ef3314fde"
+  },
+  "type": "product",
+  "userId": {
+    "$oid": "6785196308826251abbfe2c6"
+  },
+  "itemId": {
+    "$oid": "67a44c26b6f23560f693f406"
+  },
+  "fieldname": "file",
+  "originalname": "O1CN01alywqa29zGBIlKiHs_!!0-item_pic.jpg_.webp",
+  "mimetype": "image/webp",
+  "filename": "1738828555690-2146252336.webp",
+  "path": "/uploads/2025/02/image/1738828555690-2146252336.webp",
+  "size": "73596",
+  "createdAt": {
+    "$date": "2025-02-06T07:55:55.699Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-06T07:55:55.699Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a46b0bff3eb02ef3314fe1"
+  },
+  "type": "product",
+  "userId": {
+    "$oid": "6785196308826251abbfe2c6"
+  },
+  "itemId": {
+    "$oid": "67a44c26b6f23560f693f406"
+  },
+  "fieldname": "file",
+  "originalname": "O1CN01jHP1Mc29zGDNVAeWj_!!4611686018427381002-2-item_pic.png_.webp",
+  "mimetype": "image/webp",
+  "filename": "1738828555703-4794783165.webp",
+  "path": "/uploads/2025/02/image/1738828555703-4794783165.webp",
+  "size": "122500",
+  "createdAt": {
+    "$date": "2025-02-06T07:55:55.718Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-06T07:55:55.718Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a5f5c57bd81b7269b1ccda"
+  },
+  "type": "avatar",
+  "userId": {
+    "$oid": "6785196308826251abbfe2c6"
+  },
+  "itemId": null,
+  "fieldname": "file",
+  "originalname": "O1CN01jHP1Mc29zGDNVAeWj_!!4611686018427381002-2-item_pic.png_.webp",
+  "mimetype": "image/webp",
+  "filename": "1738929605393-435657341.webp",
+  "path": "/uploads/2025/02/image/1738929605393-435657341.webp",
+  "size": "122500",
+  "createdAt": {
+    "$date": "2025-02-07T12:00:05.421Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-07T12:00:05.421Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a5f5e07bd81b7269b1ccde"
+  },
+  "type": "avatar",
+  "userId": {
+    "$oid": "6785196308826251abbfe2c6"
+  },
+  "itemId": null,
+  "fieldname": "file",
+  "originalname": "ååºç½_3dæå¾å¤´åç®ä»ç·äºº_åç´ ç¼å·14672703 - å¯æ¬.png",
+  "mimetype": "image/png",
+  "filename": "1738929632038-5905932144.png",
+  "path": "/uploads/2025/02/image/1738929632038-5905932144.png",
+  "size": "2781323",
+  "createdAt": {
+    "$date": "2025-02-07T12:00:32.079Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-07T12:00:32.079Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ac3c7ee0405a5f69a8fbb1"
+  },
+  "type": "avatar",
+  "userId": {
+    "$oid": "6785196308826251abbfe2c6"
+  },
+  "itemId": null,
+  "fieldname": "file",
+  "originalname": "ååºç½_3dæå¾å¤´åç®ä»ç·äºº_åç´ ç¼å·14672703.png",
+  "mimetype": "image/png",
+  "filename": "1739340926386-2580209023.png",
+  "path": "/uploads/2025/02/image/1739340926386-2580209023.png",
+  "size": "2781323",
+  "createdAt": {
+    "$date": "2025-02-12T06:15:26.473Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-12T06:15:26.473Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67aefc60028ebf5e268019c2"
+  },
+  "type": "avatar",
+  "userId": {
+    "$oid": "6785196308826251abbfe2c6"
+  },
+  "itemId": null,
+  "fieldname": "file",
+  "originalname": "ååºç½_3dæå¾å¤´åç®ä»ç·äºº_åç´ ç¼å·14672711 - å¯æ¬.png",
+  "mimetype": "image/png",
+  "filename": "1739521120788-7781642707.png",
+  "path": "/uploads/2025/02/image/1739521120788-7781642707.png",
+  "size": "2247153",
+  "createdAt": {
+    "$date": "2025-02-14T08:18:40.824Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T08:18:40.824Z"
+  },
+  "__v": 0
+}]

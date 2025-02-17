@@ -1,0 +1,238 @@
+[{
+  "_id": {
+    "$oid": "679e2017e247c5586bc279f0"
+  },
+  "name": "折叠屏手机",
+  "introduce": "",
+  "categoryId": {
+    "$oid": "679dc8203db5321f9012ab34"
+  },
+  "createdAt": {
+    "$date": "2025-02-01T13:22:31.533Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-01T13:34:10.958Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679e22e77c73b4220d137558"
+  },
+  "name": "老年机",
+  "introduce": "",
+  "categoryId": {
+    "$oid": "679dc8203db5321f9012ab34"
+  },
+  "createdAt": {
+    "$date": "2025-02-01T13:34:31.416Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-01T13:34:31.416Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679e22f07c73b4220d13755e"
+  },
+  "name": "儿童手机",
+  "introduce": "",
+  "categoryId": {
+    "$oid": "679dc8203db5321f9012ab34"
+  },
+  "createdAt": {
+    "$date": "2025-02-01T13:34:40.359Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-01T13:34:40.359Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679e2877e1aa0e3ce3eb8285"
+  },
+  "name": "xxxxx",
+  "introduce": "",
+  "categoryId": {
+    "$oid": "679e284fe1aa0e3ce3eb8266"
+  },
+  "createdAt": {
+    "$date": "2025-02-01T13:58:15.965Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-01T13:58:15.965Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a05b1a4a96a35750383418"
+  },
+  "name": "笔记本电脑",
+  "introduce": "",
+  "categoryId": {
+    "$oid": "679e297d3f7ad1d41971c0f8"
+  },
+  "createdAt": {
+    "$date": "2025-02-03T05:58:50.706Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-03T05:58:50.706Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a05b234a96a3575038341e"
+  },
+  "name": "台式电脑",
+  "introduce": "",
+  "categoryId": {
+    "$oid": "679e297d3f7ad1d41971c0f8"
+  },
+  "createdAt": {
+    "$date": "2025-02-03T05:58:59.482Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-03T05:58:59.482Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a05b2a4a96a35750383424"
+  },
+  "name": "游戏本",
+  "introduce": "",
+  "categoryId": {
+    "$oid": "679e297d3f7ad1d41971c0f8"
+  },
+  "createdAt": {
+    "$date": "2025-02-03T05:59:06.278Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-03T05:59:06.278Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a05b314a96a3575038342a"
+  },
+  "name": "轻薄本",
+  "introduce": "",
+  "categoryId": {
+    "$oid": "679e297d3f7ad1d41971c0f8"
+  },
+  "createdAt": {
+    "$date": "2025-02-03T05:59:13.688Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-03T05:59:13.688Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a05b3c4a96a35750383430"
+  },
+  "name": "办公电脑",
+  "introduce": "",
+  "categoryId": {
+    "$oid": "679e297d3f7ad1d41971c0f8"
+  },
+  "createdAt": {
+    "$date": "2025-02-03T05:59:24.640Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-03T05:59:24.640Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a0e82012eaa3713eb1dd7b"
+  },
+  "name": "毛绒玩具",
+  "introduce": "",
+  "categoryId": {
+    "$oid": "679e2a263f7ad1d41971c0fe"
+  },
+  "createdAt": {
+    "$date": "2025-02-03T16:00:32.306Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-03T16:00:32.306Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a0e83b12eaa3713eb1dd81"
+  },
+  "name": "卡通公仔",
+  "introduce": "",
+  "categoryId": {
+    "$oid": "679e2a263f7ad1d41971c0fe"
+  },
+  "createdAt": {
+    "$date": "2025-02-03T16:00:59.855Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-03T16:00:59.855Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a0e85612eaa3713eb1dd87"
+  },
+  "name": "男士钱包",
+  "introduce": "",
+  "categoryId": {
+    "$oid": "679e1910cb666af62d275997"
+  },
+  "createdAt": {
+    "$date": "2025-02-03T16:01:26.245Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-03T16:01:26.245Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a0e85f12eaa3713eb1dd8d"
+  },
+  "name": "女包",
+  "introduce": "",
+  "categoryId": {
+    "$oid": "679e1910cb666af62d275997"
+  },
+  "createdAt": {
+    "$date": "2025-02-03T16:01:35.405Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-03T16:01:35.405Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a2d8a16a4a451d99f1fd28"
+  },
+  "name": "游戏手机",
+  "introduce": "",
+  "categoryId": {
+    "$oid": "679dc8203db5321f9012ab34"
+  },
+  "createdAt": {
+    "$date": "2025-02-05T03:18:57.952Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T03:18:57.952Z"
+  },
+  "__v": 0
+}]

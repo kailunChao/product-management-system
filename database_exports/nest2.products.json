@@ -1,0 +1,90 @@
+[{
+  "_id": {
+    "$oid": "67a1dee7992e3260b87dac63"
+  },
+  "name": "荣耀（HONOR）红米 Pro 14轻薄本锐龙版全面屏学生商务办公笔记本 红米 PRO14 R5-6600H-集显 1TB",
+  "price": 5200,
+  "quantity": 100,
+  "subCategoryId": {
+    "$oid": "67a05b314a96a3575038342a"
+  },
+  "createdAt": {
+    "$date": "2025-02-04T09:33:27.478Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-04T09:33:27.478Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a1e5885019eaa1ea4c9845"
+  },
+  "name": " 惠普HP【国家补贴20%】星Book Pro 14 2024 轻薄笔记本电脑(酷睿Ultra5 32G 1T 2.8K 120Hz OLED AI)银",
+  "price": 5500,
+  "quantity": 100,
+  "subCategoryId": {
+    "$oid": "67a05b314a96a3575038342a"
+  },
+  "createdAt": {
+    "$date": "2025-02-04T10:01:44.922Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-04T10:01:44.922Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a1efb1909b177d034b6c5e"
+  },
+  "name": "戴尔（DELL）游匣G3系列超竞版酷睿i7手提笔记本电脑i5独显6G游戏本 酷睿i9-9750H满血增强版 4G独显 32GB512GB固态硬盘",
+  "price": 6000,
+  "quantity": 300,
+  "subCategoryId": {
+    "$oid": "67a05b2a4a96a35750383424"
+  },
+  "createdAt": {
+    "$date": "2025-02-04T10:45:05.394Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-04T10:45:05.394Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a219626a4a451d99f1fd19"
+  },
+  "name": "小米（MI） 小米笔记本Redmi Book 16 2024款16英寸红米轻薄本学生商务办公游戏笔记本电脑政府补贴同款TS11A i7-13620H /2.5K /120Hz 标配版",
+  "price": 5000,
+  "quantity": 800,
+  "subCategoryId": {
+    "$oid": "67a05b314a96a3575038342a"
+  },
+  "createdAt": {
+    "$date": "2025-02-04T13:42:58.190Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-04T13:42:58.190Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a2d8d06a4a451d99f1fd3e"
+  },
+  "name": "vivo iQOO Neo10 第三代骁龙8 自研电竞芯片Q2 120W超快闪充 超声波3D指纹 超薄AI游戏学生手机 驰光白 12GB 256GB 官方标配",
+  "price": 2299,
+  "quantity": 100,
+  "subCategoryId": {
+    "$oid": "67a2d8a16a4a451d99f1fd28"
+  },
+  "createdAt": {
+    "$date": "2025-02-05T03:19:44.255Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T03:19:44.255Z"
+  },
+  "__v": 0
+}]

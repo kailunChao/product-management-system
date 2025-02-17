@@ -1,0 +1,60 @@
+[{
+  "_id": {
+    "$oid": "6792394e7b4f596903e9aedb"
+  },
+  "name": "系统总览",
+  "icon": "LineChartOutlined",
+  "introduce": "",
+  "createdAt": {
+    "$date": "2025-01-23T12:42:54.453Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-24T10:15:23.006Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679239837b4f596903e9aeeb"
+  },
+  "name": "系统管理",
+  "icon": "RadiusSettingOutlined",
+  "introduce": "",
+  "createdAt": {
+    "$date": "2025-01-23T12:43:47.156Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-24T10:17:01.028Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679239b57b4f596903e9aef2"
+  },
+  "name": "商品中心",
+  "icon": "ShoppingOutlined",
+  "introduce": "",
+  "createdAt": {
+    "$date": "2025-01-23T12:44:37.243Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-24T10:17:10.358Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679239d47b4f596903e9aef8"
+  },
+  "name": "个人中心",
+  "icon": "UserOutlined",
+  "introduce": "",
+  "createdAt": {
+    "$date": "2025-01-23T12:45:08.767Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-24T14:16:52.383Z"
+  },
+  "__v": 0
+}]

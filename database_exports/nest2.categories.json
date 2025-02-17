@@ -1,0 +1,90 @@
+[{
+  "_id": {
+    "$oid": "679dc8203db5321f9012ab34"
+  },
+  "name": "手机",
+  "icon": "TabletOutlined",
+  "introduce": "",
+  "createdAt": {
+    "$date": "2025-02-01T07:07:12.199Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-01T13:35:11.174Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679e1910cb666af62d275997"
+  },
+  "name": "箱包",
+  "icon": "ShoppingOutlined",
+  "introduce": "",
+  "createdAt": {
+    "$date": "2025-02-01T12:52:32.881Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-01T12:52:32.881Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679e291c3f7ad1d41971c0ec"
+  },
+  "name": "家用电器",
+  "icon": "HddOutlined",
+  "introduce": "",
+  "createdAt": {
+    "$date": "2025-02-01T14:01:00.942Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-01T14:01:00.942Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679e295b3f7ad1d41971c0f2"
+  },
+  "name": "家居",
+  "icon": "HomeOutlined",
+  "introduce": "",
+  "createdAt": {
+    "$date": "2025-02-01T14:02:03.296Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-01T14:02:03.296Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679e297d3f7ad1d41971c0f8"
+  },
+  "name": "电脑",
+  "icon": "LaptopOutlined",
+  "introduce": "",
+  "createdAt": {
+    "$date": "2025-02-01T14:02:37.748Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-01T14:02:37.748Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679e2a263f7ad1d41971c0fe"
+  },
+  "name": "玩具",
+  "icon": "RobotOutlined",
+  "introduce": "",
+  "createdAt": {
+    "$date": "2025-02-01T14:05:26.152Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-01T14:05:26.152Z"
+  },
+  "__v": 0
+}]
