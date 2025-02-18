@@ -21,7 +21,7 @@
     <a-descriptions-item label="角色">{{
       mainStore.userInfo?.role === null
         ? "暂无"
-        : mainStore.userInfo?.role[0]?.name
+        : mainStore.userInfo?.role?.name
     }}</a-descriptions-item>
     <a-descriptions-item label="状态" :span="3">
       <a-badge
