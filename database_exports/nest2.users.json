@@ -2035,4 +2035,24 @@
     "$date": "2025-02-07T16:55:29.841Z"
   },
   "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b405dfee8aab30cac53353"
+  },
+  "name": "admin",
+  "realname": "admin",
+  "password": "$argon2id$v=19$m=65536,t=3,p=4$p+8J/eyN/5RXL8HkGRvXSA$qd+tevk4Ron9fewa4GYWwZ7ApWYyuEH3EAXCi7zWcv8",
+  "phoneNumber": "18888888888",
+  "enable": true,
+  "role": {
+    "$oid": "679b5aee20e38eff13d9d9c7"
+  },
+  "createdAt": {
+    "$date": "2025-02-18T04:00:31.420Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T04:00:31.420Z"
+  },
+  "__v": 0
 }]
