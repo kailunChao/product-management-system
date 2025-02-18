@@ -30,6 +30,11 @@ export const useLoginStore = defineStore(
       remember: false
     })
 
+    const resetPassword = () => {
+      formState.password = ''
+      formState.passwordConfirm = ''
+    }
+
     const accountLoginAction = async (data: {
       name: string
       password: string
@@ -63,14 +68,15 @@ export const useLoginStore = defineStore(
       accountLoginAction,
       phoneNumberLoginAction,
       moduleState,
-      setModuleState
+      setModuleState,
+      resetPassword
     }
   },
   {
     persist: {
       key: 'pinia-login-store',
       storage: localStorage,
-      omit: ['formState.captcha', 'token'],
+      omit: ['formState.captcha', 'token', 'moduleState'],
       serializer: {
         serialize: state => {
           const stateCopy = { ...state }
