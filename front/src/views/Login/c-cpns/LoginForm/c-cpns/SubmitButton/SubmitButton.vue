@@ -24,9 +24,11 @@ const [btnText, setBtnText] = useRef<string>("");
 watch(
   () => loginStore.moduleState,
   (newValue) => {
-    newValue === "用户名登录" || newValue === "手机号登录"
-      ? setBtnText("登录")
-      : setBtnText("确认并返回登录");
+    setTimeout(() => {
+      newValue === "用户名登录" || newValue === "手机号登录"
+        ? setBtnText("登录")
+        : setBtnText("确认并返回登录");
+    }, 500);
   },
   { immediate: true }
 );
