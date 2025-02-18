@@ -48,7 +48,7 @@ onMounted(async () => {
         name: "总数",
         type: "pie",
         radius: "80%",
-        center: ["38%", "55%"],
+        center: ["42%", "55%"],
         data: subCategory.data,
         emphasis: {
           itemStyle: {
