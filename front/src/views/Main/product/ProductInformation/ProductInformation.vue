@@ -1,5 +1,5 @@
 <template>
-  <SearchPanel @startSearch="handelStartSearch" />
+  <SearchPanel @startSearch="handelStartSearch" @delete="handelStartSearch" />
   <Panel
     @create="
       () => {
