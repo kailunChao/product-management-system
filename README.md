@@ -9,3 +9,5 @@
 
 简要演示视频：
 https://www.bilibili.com/video/BV1XyAne5EX4/?share_source=copy_web&vd_source=1871ef608959ef6cb8b9845a324cafe5
+
+👆视频(<4.3min)剪的挺好的，如果您能看到就更好了😁🎉
