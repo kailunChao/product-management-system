@@ -3,7 +3,7 @@
     :columns="columns"
     :data-source="categoryStore.categories"
     :pagination="false"
-    :scroll="{ x: 'max-content', y: 6 * 91 }"
+    :scroll="{ x: 'max-content', y: 6 * 87 }"
     rowKey="id"
     v-model:expandedRowKeys="expandedRowKeys"
     :row-selection="rowSelection"

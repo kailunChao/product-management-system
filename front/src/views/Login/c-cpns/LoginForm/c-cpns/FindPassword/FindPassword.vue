@@ -15,6 +15,7 @@ const emit = defineEmits<{
 
 const handleFindPasswordClick = () => {
   loginStore.resetPassword();
+  loginStore.resetCaptcha();
   loginStore.setModuleState("找回密码");
   emit("reset");
 };

@@ -164,6 +164,7 @@ const onFinish = async (values: FormState) => {
   if (values.subCategoryId.length === 1) return;
   productStore.setProductsAction();
   productModalStore.setTabDisabled(false);
+  productModalStore.setFileList([]);
   productModalStore.formMode === "create"
     ? setTabsActiveKey("2")
     : (open.value = false);

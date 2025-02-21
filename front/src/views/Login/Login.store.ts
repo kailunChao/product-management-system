@@ -35,6 +35,10 @@ export const useLoginStore = defineStore(
       formState.passwordConfirm = ''
     }
 
+    const resetCaptcha = () => {
+      formState.captcha = ''
+    }
+
     const accountLoginAction = async (data: {
       name: string
       password: string
@@ -69,7 +73,8 @@ export const useLoginStore = defineStore(
       phoneNumberLoginAction,
       moduleState,
       setModuleState,
-      resetPassword
+      resetPassword,
+      resetCaptcha
     }
   },
   {

@@ -53,9 +53,6 @@ export class ProductService {
                   },
                 },
               },
-              {
-                $sort: { updatedAt: -1 },
-              },
             ],
             as: 'pics',
           },
@@ -139,9 +136,7 @@ export class ProductService {
     };
   }
 
-  findProductGroupByCategory(){
-    
-  }
+  findProductGroupByCategory() {}
 
   update(id: string, updateProductDto: UpdateProductDto) {
     return this.productModel.findByIdAndUpdate(id, updateProductDto, {

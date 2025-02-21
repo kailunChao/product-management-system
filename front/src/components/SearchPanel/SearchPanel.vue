@@ -12,7 +12,12 @@
           v-model:value="searchPanelStore.formState[item.dataIndex]"
         /><DeleteOutlined
           class="deleteIcon"
-          @click="searchPanelStore.remove(item)"
+          @click="
+            () => {
+              searchPanelStore.remove(item);
+              $emit('delete');
+            }
+          "
         />
       </div>
     </a-form-item>
